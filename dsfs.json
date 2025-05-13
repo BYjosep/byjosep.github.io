@@ -1,0 +1,21 @@
+[
+  {
+    "coords": [
+      40.42669550575276,
+      -3.7265968322753906
+    ],
+    "title": "tt",
+    "question": "tt",
+    "answers": [
+      {
+        "text": "tt",
+        "correct": true
+      },
+      {
+        "text": "tt",
+        "correct": false
+      }
+    ],
+    "location": "Ubicación"
+  }
+]
