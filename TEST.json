@@ -8,5 +8,24 @@
       { "text": "Madrid", "correct": true },
       { "text": "Valencia", "correct": false }
     ]
+  },
+  {
+    "coords": [
+      38.72753893467227,
+      0.10680019855499269
+    ],
+    "title": "iush",
+    "question": "jfklghn",
+    "answers": [
+      {
+        "text": "test",
+        "correct": true
+      },
+      {
+        "text": "test",
+        "correct": false
+      }
+    ],
+    "location": "Ubicación"
   }
 ]
