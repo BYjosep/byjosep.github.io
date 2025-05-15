@@ -1,0 +1,12 @@
+[
+  {
+    "coords": [38.7276, 0.0824],
+    "title": "Punto de prueba en Teulada",
+    "question": "¿Cuál es la capital de España?",
+    "answers": [
+      { "text": "Barcelona", "correct": false },
+      { "text": "Madrid", "correct": true },
+      { "text": "Valencia", "correct": false }
+    ]
+  }
+]
