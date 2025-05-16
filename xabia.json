@@ -1,0 +1,25 @@
+[
+  {
+    "coords": [
+      38.78844152672133,
+      0.17822206020355225
+    ],
+    "title": "insitituto",
+    "question": "Esto es un instituto?",
+    "answers": [
+      {
+        "text": "si",
+        "correct": true
+      },
+      {
+        "text": "no",
+        "correct": false
+      },
+      {
+        "text": "unicamente esta abierto de dia",
+        "correct": false
+      }
+    ],
+    "location": "Ubicación"
+  }
+]
