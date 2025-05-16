@@ -21,5 +21,24 @@
       }
     ],
     "location": "Ubicación"
+  },
+  {
+    "coords": [
+      38.78842898260229,
+      0.1780182123184204
+    ],
+    "title": "test",
+    "question": "ters",
+    "answers": [
+      {
+        "text": "test1",
+        "correct": true
+      },
+      {
+        "text": "ff",
+        "correct": false
+      }
+    ],
+    "location": "Ubicación"
   }
 ]
