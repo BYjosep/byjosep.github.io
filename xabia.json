@@ -40,5 +40,24 @@
       }
     ],
     "location": "Ubicación"
+  },
+  {
+    "coords": [
+      38.789052004513636,
+      0.17822742462158203
+    ],
+    "title": "test",
+    "question": "ttt",
+    "answers": [
+      {
+        "text": "vb",
+        "correct": true
+      },
+      {
+        "text": "rb",
+        "correct": false
+      }
+    ],
+    "location": "Ubicación"
   }
 ]
